@@ -1,6 +1,6 @@
-# Login And Register Form With MySQL Database In Java NetBeans
+# Crud Operation With MySQL Database In Java NetBeans
 
-## JAVA - Login SignUp java mysql database
+## JAVA - Crud java mysql database
 
 
 version: 1.0.0
@@ -12,10 +12,3 @@ version: 1.0.0
 1. Java JFrame
 
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/y8KnCBRzTnw)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
